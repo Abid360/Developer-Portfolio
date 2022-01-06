@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Serif:wght@700&family=Poppins&display=swap');
 body{
     font-family: 'Poppins', sans-serif;    
 }
@@ -17,6 +18,10 @@ h2{
 }
 .light-blue{
     color: lightblue;
+    font-family: 'Poppins', sans-serif;
+}
+.red{
+    color:rgb(206, 58, 58);
 }
 .flexible-box{
     display: flex;
@@ -59,4 +64,16 @@ h2{
 }
 #down{
     padding-top: 5%;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    color: whitesmoke;
+    text-align: center;
+}
+.f1{
+    font-family: 'PT Serif', serif;
+}
+.f3{
+    font-family: 'Lobster', cursive;
 }
