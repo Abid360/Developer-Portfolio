@@ -4,12 +4,15 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .half-width{
-    width: 50%;
+    width: 75%;
     padding-left: 10%;
 }
 .half-width img{
-    width: 65%;
+    width: 80%;
     padding-top: 10%;
 }
 .light-blue{
@@ -53,4 +56,7 @@ h1{
 #goals-id{
     border-style: hidden;
     background-color: rgb(141, 226, 186);    
+}
+#down{
+    padding-top: 5%;
 }
