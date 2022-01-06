@@ -20,3 +20,16 @@ h1{
     margin-top: 50px;
     margin-bottom: 130px;
 }
+#left-border{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(15, 118, 153),cyan);
+    padding: 12px 38px;
+    color: whitesmoke;
+    font-weight: 800;
+    border-radius: 10px;
+}
